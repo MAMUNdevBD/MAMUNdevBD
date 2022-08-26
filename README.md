@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+#  <div align="center">Hello World!</div>
   
 
 ### <div align="center">I'm ABDULLAH AL MAMUN, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
