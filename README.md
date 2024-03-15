@@ -2,10 +2,7 @@
   
 
 ### <div align="center">I'm ABDULLAH AL MAMUN, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Studerakoranen-se](https://github.com/Studerakoranen-se/Quran-api)  
-  
+    
 
 - 🌱 I’m currently learning Go Lang  
   
